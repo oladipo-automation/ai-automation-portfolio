@@ -16,7 +16,9 @@ Skills demonstrated:
 - Text Aggregator formatting  
 - Gmail automation  
 
-Folder: `project-01-make-content-extractor/`
+Screenshots:
+IMG_1124.PNG
+
 
 ---
 
