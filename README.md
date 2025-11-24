@@ -65,4 +65,4 @@ Screenshots:
 I’m open to junior automation roles, internships, and freelance automation tasks.
 
 - LinkedIn:  https://www.linkedin.com/in/oladipo-richard-a00320257?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- GitHub:
+- GitHub: https://github.com/oladipo-automation
