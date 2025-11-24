@@ -17,7 +17,10 @@ Skills demonstrated:
 - Gmail automation  
 
 Screenshots:
-IMG_1124.PNG
+<img width="1366" height="728" alt="Screenshot 2025-11-24 135148" src="https://github.com/user-attachments/assets/6a077c8e-c48b-40e3-950a-aa6c5119e901" />
+<img width="1366" height="728" alt="Screenshot 2025-11-24 134931" src="https://github.com/user-attachments/assets/95df99e1-9b52-48c6-860d-361c7f29e057" />
+<img width="1366" height="728" alt="Screenshot 2025-11-24 134633" src="https://github.com/user-attachments/assets/ed83d31b-62e7-4331-9b98-adda2d3d9d1a" />
+
 
 
 ---
@@ -32,7 +35,11 @@ Skills demonstrated:
 - Zapoer AI
 - Automated email reminders  
 
-Folder:`project-02-zapier-job-tracker/`
+Screenshots:
+<img width="1366" height="728" alt="Screenshot 2025-11-24 133642" src="https://github.com/user-attachments/assets/b32c0d0d-6776-4afd-9132-75e347399967" />
+<img width="1366" height="728" alt="Screenshot 2025-11-24 133305" src="https://github.com/user-attachments/assets/0f1d08ac-8463-438d-afc4-003c862b9a34" />
+<img width="1366" height="728" alt="Screenshot 2025-11-24 133924" src="https://github.com/user-attachments/assets/fb3af438-8dd1-4ca3-9286-afb07e4b0904" />
+
 ---
 
  🛠 Tools Used
@@ -42,16 +49,6 @@ Folder:`project-02-zapier-job-tracker/`
 - AI text 
 - Markdown for documentation  
 - GitHub for portfolio building  
-
----
-
-📸 Screenshots
-Each project folder includes:
-- Workflow screenshots  
-- Sample inputs  
-- Sample outputs  
-
-This helps recruiters and hiring managers see that the projects actually run.
 
 ---
 
