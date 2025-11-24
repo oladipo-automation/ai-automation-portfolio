@@ -7,6 +7,7 @@ This repo contains the first projects I completed in my 60-day AI Automation Cha
 ---
 
 📂 Projects Included
+
 🔹 1. Make – Automated Content Formatter + Email Sender
 What it does:
 Takes raw text from Google Sheets → uses Make AI & Text Aggregator → generates a clean structured summary and send to an email.
