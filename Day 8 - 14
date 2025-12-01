@@ -1,1 +1,77 @@
+AI Automation Portfolio
 
+Welcome to my AI Automation Portfolio.
+I am learning AI automation by building real projects using Zapier, Make.com, Google Sheets, Google Forms, Google Gemini AI, APIs, and no-code workflow platforms.
+
+This repo contains the latest projects completed for Day 8 - 14, during my 60-day AI Automation Challenge.
+
+⸻
+
+📂 Projects Included
+
+⸻
+
+🔹 1. Zapier – AI Content Generator API (Google Gemini)
+
+What it does:
+	•	User submits a topic via Google Form
+	•	Zapier routes it → Google Gemini AI generates title, outline, and full article
+	•	Output sent to client email
+	•	Data logged into company Google Sheets
+
+Skills demonstrated:
+	•	Zapier routing & Paths
+	•	Google Gemini AI integration
+	•	Email automation
+	•	Google Sheets logging
+	•	Micro-API workflow design
+
+📸 Screenshots
+
+
+⸻
+
+🔹 2. Make ↔ Zapier – Dual Automation Sync
+
+What it does:
+	•	Un-enriched data stored in Google sheets in Make
+	•	Data sent to Zapier via webhook from Make
+	•	Zapier AI enriches the data → passes through formatter
+	•	Data returned to Make → stored in Google Sheets
+
+Skills demonstrated:
+	•	Multi-platform workflow orchestration
+	•	Webhooks & POST/response handling
+	•	Zapier AI enrichment & data formatting
+	•	Make routing & JSON handling
+	•	Data logging & validation
+
+⸻
+
+🛠 Tools Used
+	•	Zapier
+	•	Make.com
+	•	Google Forms & Google Sheets
+	•	Google Gemini AI
+	•	JSON formatting
+	•	Markdown for documentation
+	•	GitHub for portfolio building
+
+⸻
+
+📸 Screenshots
+
+⸻
+
+🌱 What I’m Learning Next:
+	•	API authentication & Python basics
+	•	Multi-step automations
+	•	Complex webhook chaining
+	•	Advanced Make Routers & Zapier Paths
+	•	Building fully automated AI pipelines
+
+⸻
+
+🤝 Connect With Me
+I’m open to junior automation roles, internships, and freelance automation tasks.
+	•	LinkedIn: https://www.linkedin.com/in/oladipo-richard-a00320257?utm_source=share_via&utm_content=profile&utm_medium=member_ios
