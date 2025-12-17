@@ -72,4 +72,5 @@ This helps recruiters and hiring managers confirm that the automations are fully
 
 🤝 Connect With Me
 I’m open to junior automation roles, internships, and freelance automation tasks.
+
 	•	LinkedIn:
