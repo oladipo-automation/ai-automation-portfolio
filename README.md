@@ -25,6 +25,10 @@ Skills demonstrated:
 
 📸 Screenshots
 
+<img width="1792" height="828" alt="Image" src="https://github.com/user-attachments/assets/0b758189-10b9-4092-b2ba-5853763c4d2c" />
+
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/060be8b1-b0c5-4d7d-9262-6094b2afb519" />
+
 ⸻
 
 🔹 2. Zapier – AI Lead Qualification & CRM Logger
@@ -40,6 +44,10 @@ Skills demonstrated:
 	•	Sales automation logic
 
 📸 Screenshots
+
+<img width="1351" height="721" alt="Image" src="https://github.com/user-attachments/assets/81c19f2a-e3bc-4b84-9ce4-0e210dd6a0fc" />
+
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/e8e8256b-ea1b-4759-92c0-cd4997df9f3d" />
 
 ⸻
 
